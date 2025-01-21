@@ -65,3 +65,6 @@
 ## 5. Model Evaluation and Selection:
 5.1 Calculate the Performance of each model using accuracy and cross validation score.  
 5.2 Print the Model with the highest performance.
+
+#### ----- THANK YOU -----     
+DATE : 22 JAN 2025
